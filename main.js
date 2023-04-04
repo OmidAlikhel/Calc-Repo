@@ -1,6 +1,6 @@
 //  IIFE are those type of function htat automatically runs when project is run
 // IIFE = imediatly invoked function expressions.
-// iife = has different types.
+// IIFE functions = IIFE functions has different types.
 (function () {
   let screen = document.querySelector(".screen");
   let buttons = document.querySelectorAll(".btn");

@@ -25,6 +25,11 @@
       screen.value = answer;
     }
   });
+
+  // third functionality, clear button for clearing screen
+  clear.addEventListener("click", function (e) {
+    screen.value = "";
+  });
 })();
 
 console.log("hello word");
